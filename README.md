@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Diwakar124
-- 👀 I’m interested in Software ffield
+- 👀 I’m interested in Software field
 - 🌱 I’m currently learning web develoment(HTML,CSS &JS)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me diwakar2249@gmail.com
