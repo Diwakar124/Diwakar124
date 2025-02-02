@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Diwakar124
-- 👀 I’m interested in Software field
+- 👀 I’m interested in Software field and Data analytics
 - 🌱 I’m currently learning web develoment(Frontend: HTML,CSS,js & framework- react js and Backend: Node ,mongoDB and node framework Expressjs)
+- for Data analytics skill - Python,SQL, poerBI, Excel and ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me diwakar2249@gmail.com
 
